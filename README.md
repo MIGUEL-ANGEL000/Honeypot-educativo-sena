@@ -24,7 +24,7 @@ Este proyecto simula un honeypot básico en Python para detectar intentos de con
    ```bash
    # git clone https://github.com/MIGUEL-ANGEL000/honeypot-educativo-sena.git
    cd honeypot-educativo-sena
-   #python honeypot.py
+   python honeypot.py
 para detener la ejecucion presiona CTRL+C
 ## Archivos generados
 - cuando se detecta un intento de acceso  se genera un registro en honeypot_logs
